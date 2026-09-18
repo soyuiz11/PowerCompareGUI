@@ -50,4 +50,4 @@ jobs:
             pcomp.exe.sha256
           body_path: ./README.md # Uses your README as the baseline or leave blank for a clean template
         env:
-          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
