@@ -4,6 +4,8 @@
 [![.NET Framework](https://img.shields.io/badge/.NET_Framework-4.5+-512BD4?logo=.net)](https://dotnet.microsoft.com/en-us/dotnet/framework)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell)](https://github.com/PowerShell/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/{soyuiz11}/{PowerCompareGUI}/{release.yml}?label=builds)](https://github.com/{soyuiz11}/{PowerCompareGUI}/actions)
+
 
 ## 📝 Description
 
